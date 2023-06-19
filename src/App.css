@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.signout {
+  padding: 10px 20px;
+  background-color: #181717ed;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 19px;
+  cursor: pointer;
+  font-family: monospace;
+  position: relative;
+  left: 45%;
+  /* bottom: 65%; */
+  /* margin-block-end: 27%; */
+  margin-top: 3%;
+}
+.signout:hover {
+  background-color: #373c4b;
+}
+.sign-out{
+  background-color: #f6f6f6;
+}
+
